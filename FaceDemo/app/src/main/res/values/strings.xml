@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FaceDemo</string>
+    <string name="touch_to_focus">触摸屏幕对焦</string>
+    <string name="authentication">认证</string>
+    <string name="identify">鉴别</string>
+    <string name="register">注册</string>
+    <string name="collect">采集</string>
+    <string name="recognition">识别</string>
+</resources>
